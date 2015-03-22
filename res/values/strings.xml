@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">嘉和汇二手车</string>
+    <string name="action_settings">Settings</string>
+    <string name="shuoming">说明</string>
+    <string name="shuoming2">1.点击下一步视为同意</string>
+    <string name="shuoming22">《用户协议》</string>
+    <string name="shuoming3">2.未收到验证码或有任何疑问,请拨打电话</string>
+    <string name="shuoming33">4008080688</string>
+    <string name="zhuce">注册(&#8531;)</string>
+    <string name="smssdk_country_num">+86</string>
+    <string name="smssdk_write_mobile_phone">请填写手机号码</string>
+    <string name="smssdk_next">下一步</string>
+    <string name="smssdk_login">登录</string>
+    <string name="smssdk_registered">注册</string>
+    <string name="smssdk_finish">完成</string>
+    <string name="smssdk_regist">使用手机号码注册</string>
+    <string name="smssdk_make_sure_mobile_detail">我们将发送验证码短信到这个号码：</string>
+    <string name="smssdk_ok">好</string>
+    <string name="smssdk_cancel">取消</string>
+    <string name="smssdk_get">获取</string>
+    <string name="smssdk_get_verification_code_content">获取验证码中</string>
+    <string name="smssdk_write_identify_code">填写验证码</string>
+    <string name="smssdk_write_userOrphonenum">手机号\用户名</string>
+    <string name="smssdk_write_pwd">密码</string>
+    <string name="smssdk_receive_msg1"><Data>%s秒</Data></string>
+    <string name="smssdk_receive_msg"><Data>接收短信大约需要&lt;font color=#209526>%s&lt;/font>秒</Data></string>
+    <string name="smssdk_send_mobile_detail"><Data>我们已发送&lt;font color=#209526>验证码&lt;/font>短信到这个号码:</Data></string>
+    <string name="smssdk_unreceive_identify_code"><Data>&lt;font color=#a8b8cb> 收不到验证码？&lt;/font></Data></string>
+    <string name="smssdk_unreceive_identify_code1"><Data>重置</Data></string>
+    <string name="smssdk_resend_identify_code">重新获取验证码</string>
+    <string name="smssdk_back">返回 </string>
+    <string name="smssdk_close_identify_page_dialog">验证码短信可能略有延迟，确定返回并重新开始？</string>
+    <string name="smssdk_wait">等待 </string>
+    <string name="smssdk_loading">Loading…</string>
+    <!-- 嘉和汇二手车 -->
+    <string name="uc_options">车源</string>
+    <string name="uc_subscribe">订阅</string>
+    <string name="uc_merchants">商家</string>
+    <string name="uc_consulting">咨询</string>
+    <string name="uc_mine">我的</string>
+    <string name="uc_search">筛选</string>
+    <string name="uc_count">总店</string>
+    <string name="uc_enter">进入</string>
+
+</resources>
